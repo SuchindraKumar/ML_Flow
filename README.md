@@ -1,4 +1,4 @@
-# ML_Flow : MLflow is an open-source platform that helps data scientists and machine learning practitioners manage their machine learning projects. It provides a set of tools and functionalities that make it easier to track, reproduce, and deploy machine learning models. 
+# ML_Flow : MLflow is an open-source platform that helps Data Scientists and Machine Learning Practitioners manage their Machine Learning Projects. It provides a set of tools and functionalities that make it easier to Track, Reproduce, and Deploy Machine Learning Models. 
 
 
 To run these commands from the command line, follow the steps below:
