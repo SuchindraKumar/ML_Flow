@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/84fa434c4b0348c6a515eeb33199c5a6/artifacts
+end_time: 1687712343281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84fa434c4b0348c6a515eeb33199c5a6
+run_name: hilarious-ant-263
+run_uuid: 84fa434c4b0348c6a515eeb33199c5a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687712340582
+status: 3
+tags: []
+user_id: suchi
