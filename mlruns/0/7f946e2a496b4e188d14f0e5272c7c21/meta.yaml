@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/7f946e2a496b4e188d14f0e5272c7c21/artifacts
+end_time: 1687519448643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f946e2a496b4e188d14f0e5272c7c21
+run_name: monumental-colt-696
+run_uuid: 7f946e2a496b4e188d14f0e5272c7c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687519448630
+status: 3
+tags: []
+user_id: suchi
