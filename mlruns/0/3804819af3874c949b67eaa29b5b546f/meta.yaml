@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/3804819af3874c949b67eaa29b5b546f/artifacts
+end_time: 1687713730641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3804819af3874c949b67eaa29b5b546f
+run_name: burly-foal-754
+run_uuid: 3804819af3874c949b67eaa29b5b546f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713728142
+status: 3
+tags: []
+user_id: suchi

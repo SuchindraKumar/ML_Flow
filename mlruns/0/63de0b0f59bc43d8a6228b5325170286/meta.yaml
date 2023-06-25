@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/63de0b0f59bc43d8a6228b5325170286/artifacts
+end_time: 1687713796605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63de0b0f59bc43d8a6228b5325170286
+run_name: likeable-jay-740
+run_uuid: 63de0b0f59bc43d8a6228b5325170286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713793676
+status: 3
+tags: []
+user_id: suchi

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/a5b035b7c98a4640b7e554e97c591743/artifacts
+end_time: 1687713700235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5b035b7c98a4640b7e554e97c591743
+run_name: languid-deer-946
+run_uuid: a5b035b7c98a4640b7e554e97c591743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713697620
+status: 3
+tags: []
+user_id: suchi

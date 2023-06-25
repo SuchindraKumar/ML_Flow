@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/f2b8d8542e80435eb1e848b14fb5109a/artifacts
+end_time: 1687713603795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2b8d8542e80435eb1e848b14fb5109a
+run_name: carefree-carp-257
+run_uuid: f2b8d8542e80435eb1e848b14fb5109a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713601657
+status: 3
+tags: []
+user_id: suchi

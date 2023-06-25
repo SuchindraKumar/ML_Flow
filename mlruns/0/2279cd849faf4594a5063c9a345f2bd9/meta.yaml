@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/2279cd849faf4594a5063c9a345f2bd9/artifacts
+end_time: 1687713820392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2279cd849faf4594a5063c9a345f2bd9
+run_name: melodic-kit-603
+run_uuid: 2279cd849faf4594a5063c9a345f2bd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713817473
+status: 3
+tags: []
+user_id: suchi

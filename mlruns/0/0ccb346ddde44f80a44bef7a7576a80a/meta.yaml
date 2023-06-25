@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/0ccb346ddde44f80a44bef7a7576a80a/artifacts
+end_time: 1687713618944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ccb346ddde44f80a44bef7a7576a80a
+run_name: hilarious-whale-943
+run_uuid: 0ccb346ddde44f80a44bef7a7576a80a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713616886
+status: 3
+tags: []
+user_id: suchi

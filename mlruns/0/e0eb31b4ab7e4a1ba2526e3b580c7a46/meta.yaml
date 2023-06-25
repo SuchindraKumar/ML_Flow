@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/e0eb31b4ab7e4a1ba2526e3b580c7a46/artifacts
+end_time: 1687713673473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0eb31b4ab7e4a1ba2526e3b580c7a46
+run_name: lyrical-finch-647
+run_uuid: e0eb31b4ab7e4a1ba2526e3b580c7a46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713671147
+status: 3
+tags: []
+user_id: suchi

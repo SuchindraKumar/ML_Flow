@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/f600b244a13b4422b2bacd6089917644/artifacts
+end_time: 1687713681085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f600b244a13b4422b2bacd6089917644
+run_name: selective-fox-884
+run_uuid: f600b244a13b4422b2bacd6089917644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713678388
+status: 3
+tags: []
+user_id: suchi

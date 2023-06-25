@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/37585284a8154c859bfa8e5c5a1c0105/artifacts
+end_time: 1687713648842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37585284a8154c859bfa8e5c5a1c0105
+run_name: invincible-carp-916
+run_uuid: 37585284a8154c859bfa8e5c5a1c0105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713646637
+status: 3
+tags: []
+user_id: suchi

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/94219e4c536b47daa21595f64781b9f1/artifacts
+end_time: 1687713625630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94219e4c536b47daa21595f64781b9f1
+run_name: painted-moose-646
+run_uuid: 94219e4c536b47daa21595f64781b9f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713623530
+status: 3
+tags: []
+user_id: suchi

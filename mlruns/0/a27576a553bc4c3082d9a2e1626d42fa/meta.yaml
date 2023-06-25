@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/a27576a553bc4c3082d9a2e1626d42fa/artifacts
+end_time: 1687713751594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a27576a553bc4c3082d9a2e1626d42fa
+run_name: unique-wolf-568
+run_uuid: a27576a553bc4c3082d9a2e1626d42fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713748771
+status: 3
+tags: []
+user_id: suchi

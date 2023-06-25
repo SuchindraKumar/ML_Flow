@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/79c69536b5a84285996b73be9f48e7e9/artifacts
+end_time: 1687713806640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79c69536b5a84285996b73be9f48e7e9
+run_name: brawny-shrimp-471
+run_uuid: 79c69536b5a84285996b73be9f48e7e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713803784
+status: 3
+tags: []
+user_id: suchi

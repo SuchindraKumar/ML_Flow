@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/0cc98b1fe76e4bc2b1d801486140ff2a/artifacts
+end_time: 1687713662931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cc98b1fe76e4bc2b1d801486140ff2a
+run_name: fortunate-hen-378
+run_uuid: 0cc98b1fe76e4bc2b1d801486140ff2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713660909
+status: 3
+tags: []
+user_id: suchi

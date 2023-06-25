@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/927a79a1635f4c58916e99d0891d2ecb/artifacts
+end_time: 1687713740974
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 927a79a1635f4c58916e99d0891d2ecb
+run_name: mysterious-whale-799
+run_uuid: 927a79a1635f4c58916e99d0891d2ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713738159
+status: 3
+tags: []
+user_id: suchi

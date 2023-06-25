@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/369ef73c6444435eb833384d06f324a8/artifacts
+end_time: 1687713832691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 369ef73c6444435eb833384d06f324a8
+run_name: gregarious-lynx-497
+run_uuid: 369ef73c6444435eb833384d06f324a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713829816
+status: 3
+tags: []
+user_id: suchi

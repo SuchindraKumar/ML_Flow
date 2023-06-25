@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ML_Flow/mlruns/0/4e427579e03749a5879dd1e32fcf2091/artifacts
+end_time: 1687713844527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e427579e03749a5879dd1e32fcf2091
+run_name: beautiful-foal-601
+run_uuid: 4e427579e03749a5879dd1e32fcf2091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687713841921
+status: 3
+tags: []
+user_id: suchi
