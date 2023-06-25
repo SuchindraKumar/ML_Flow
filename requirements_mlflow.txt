@@ -1,3 +1,2 @@
 mlflow
-dvc
 scikit-learn
